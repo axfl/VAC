@@ -1,5 +1,6 @@
 # VAC
-VAC: Voice Activated Chess
+VAC: Voice Activated Chess. See a demo at https://youtu.be/qs9L8GFSy-s
+
 
 VAC is a Chrome Extension that allows you to play blindfolded chess on https://lichess.org by using your voice.
 
