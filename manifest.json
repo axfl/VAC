@@ -1,0 +1,16 @@
+{
+  "name": "VAC",
+  "description": "Voice activated chess @ lichess",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tts", "debugger"],
+  "content_scripts": [
+    {
+      "matches" : ["https://lichess.org/*"],
+      "js": [  "annyang.min.js", "input.js"]
+    }
+  ]
+}
