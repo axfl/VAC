@@ -12,7 +12,7 @@ VAC is a Chrome Extension that allows you to play blindfolded chess on Lichess.o
   5) On the top right, enable Developer Mode
   6) On the top left, there should be a button that says "Load Unpacked"
   7) Clicking this button will ask you to look for the extension you downloaded & unzipped. It's probably in your Downloads folder, find it and select it.
-  8) In your extensions, you should see VAC 1.0 listed. This means you've succesfully installed the extension! 
+  8) In your extensions, you should see VAC listed. This means you've succesfully installed the extension! 
 - Part 2: Lichess settings
   
   1) Make sure you're logged into your lichess account
