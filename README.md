@@ -76,10 +76,9 @@ Another example: to move a knight from g1 to f3:
 - You: "ok"
 - Computer: moves knight from g1 to f3
 
+# License
 
-
-
-  
+VAC is open source software- it is under the GNU General Public License v3.0, which can be read in license.txt.
 
 
 
